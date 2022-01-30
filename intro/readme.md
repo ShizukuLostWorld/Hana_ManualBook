@@ -1,34 +1,48 @@
 # 一份关于Hana的简单说明书
+
 Hana 是 HiMoYo 名下的 Mirai Bot 项目
+
 基于 Onebot + ZeroBot + Golang 原生实现
+
 目前运营为 MoeMagicMango(MoYoez)
+
 本项目经本人基于1.2.4 v4 Beta Fix1 编译修改
 
 **Project: https://github.com/FloatTech/ZeroBot-Plugin**
+
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 ## 调用较多的功能
 ### 龙图功能(nativesetu)
 这个触发的方法还是挺简单的,只需要在群中发送
+
 "来份🐉图" 即可 Hana 会自动给你发送一张 看人品的龙图
 
 ### 涩图/二次元图片
 这一块分为两种调用方法
+
 #### Lolicon API (lolicon)
 顾名思义，这部分调用了Lolicon API
+
 调用方法：在群中/私信 Hana "我要一份色图" 即可
+
 相关API：**https://api.lolicon.app**
+
 **请注意 为了防止服务器爆炸 这一部分的调用是 三分钟内15次**
 
 #### 本地调用图片(nativesetu)
 这一块相对来说比较简单 而且也很方便调用
+
 速度很快~  ~~可以防止我服务器爆炸~~
+
 方法如下: 在群中发送 "来份涩图/来份二次元/来份车万/来份风景"
+
 PS：如果调用指令, Hana 有一定概率会骂你 a.a
 
 ## 完整详细的功能介绍
 ### 聊天功能
 
 众所周知,Hana 配备了世界上最先进的语言调用/调试回复功能 ~~(指fullmatch/Keywords匹配方案)~~
+
 #### 自己写的的回复功能(Groupforme)
 
 柠檬味的布丁盒子
@@ -71,8 +85,11 @@ Hana
  #### 基于项目 ATRI 的回复(atri)
 
 Hana醒醒
+
 Hana睡吧
+
 萝卜子
+
 喜欢 | 爱你 | 爱 | suki | daisuki | すき | 好き | 贴贴 | 老婆 | 亲一个 | mua
 
 草你妈 | 操你妈 | 脑瘫 | 废柴 | fw | 废物 | 战斗 | 爬 | 爪巴 | sb | SB | 傻B  早安 | 早哇 | 早上好 | ohayo | 哦哈哟 | お早う | 早好 | 早 | 早早早 
