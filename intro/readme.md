@@ -1,16 +1,4 @@
----
-title: 一份关于Hana的简单说明书
-author: MoeMagicMango
-avatar: https://cravatar.cn/avatar/22b242a28bb848f2629f2a636bba9c03?s=400
-authorlink: https://www.imagic.run
-authorAbout: '无名之辈~'
-authorDesc: '心之所向，素履以往'
-categories:
-  - Life
-description: ~教你如何正确的使用w
-photos: https://cdn.jsdelivr.net/gh/MoYoez/PublicHiMoYoCDN@fi/api/0072Vf1pgy1foxk6jltvsj31hc0u0kbm.jpg
-date: 2022-01-30 00:00:00
----
+# 一份关于 Hana BOT 的简单说明书
 
 Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
