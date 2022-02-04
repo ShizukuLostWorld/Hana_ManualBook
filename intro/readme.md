@@ -1,4 +1,16 @@
-# 一份关于Hana的简单说明书
+---
+title: 一份关于Hana的简单说明书
+author: MoeMagicMango
+avatar: https://cravatar.cn/avatar/22b242a28bb848f2629f2a636bba9c03?s=400
+authorlink: https://www.imagic.run
+authorAbout: '无名之辈~'
+authorDesc: '心之所向，素履以往'
+categories:
+  - Life
+description: ~教你如何正确的使用w
+photos: https://cdn.jsdelivr.net/gh/MoYoez/PublicHiMoYoCDN@fi/api/0072Vf1pgy1foxk6jltvsj31hc0u0kbm.jpg
+date: 2022-01-30 00:00:00
+---
 
 Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
@@ -6,7 +18,7 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 目前运营为 MoeMagicMango(MoYoez)
 
-本项目经本人基于1.2.4 v4 Beta Fix1 编译修改
+本项目经本人基于1.2.5 v1 Beta Fix3 编译修改
 
 **Project: https://github.com/FloatTech/ZeroBot-Plugin**
 
@@ -46,6 +58,7 @@ PS：如果调用指令, Hana 有一定概率会骂你 a.a
 #### 自己写的的回复功能(Groupforme)
 
 柠檬味的布丁盒子
+
 @Hana 主人是
 
 @Hana 名字
@@ -88,18 +101,19 @@ Hana醒醒
 
 Hana睡吧
 
-萝卜子
+~~萝卜子~~
 
-喜欢 | 爱你 | 爱 | suki | daisuki | すき | 好き | 贴贴 | 老婆 | 亲一个 | mua
+@Hana 喜欢 | 爱你 | 爱 | suki | daisuki | すき | 好き | 贴贴 | 老婆 | 亲一个 | mua
 
-草你妈 | 操你妈 | 脑瘫 | 废柴 | fw | 废物 | 战斗 | 爬 | 爪巴 | sb | SB | 傻B  早安 | 早哇 | 早上好 | ohayo | 哦哈哟 | お早う | 早好 | 早 | 早早早 
+@Hana 草你妈 | 操你妈 | 脑瘫 | 废柴 | fw | 废物 | 战斗 | 爬 | 爪巴 | sb | SB | 傻B  早安 | 早哇 | 早上好 | ohayo | 哦哈哟 | お早う | 早好 | 早 | 早早早 
 
-中午好 | 午安 | 午好 | 晚安 | oyasuminasai | おやすみなさい | 晚好 | 晚上好 | 高性能 | 太棒了 | すごい | sugoi | 斯国一 | よかった 
+@Hana 中午好 | 午安 | 午好 | 晚安 | oyasuminasai | おやすみなさい | 晚好 | 晚上好 | 高性能 | 太棒了 | すごい | sugoi | 斯国一 | よかった 
 
-没事 | 没关系 | 大丈夫 | 还好 | 不要紧 | 没出大问题 | 没伤到哪 | 好吗 | 是吗 | 行不行 | 能不能 | 可不可以  啊这 我好了 | ？ | ? | ¿
+@Hana 没事 | 没关系 | 大丈夫 | 还好 | 不要紧 | 没出大问题 | 没伤到哪 | 好吗 | 是吗 | 行不行 | 能不能 | 可不可以  啊这 我好了 | ？ | ? | ¿
 
 离谱 | 答应我
 
+提示:在 ATRI 项目下 Hana的不可回复时间为 3-6 点 （游戏特性）
 ### 群管(需要Hana酱为管理)(Manager)
 
  禁言[@xxx][分钟]
@@ -163,18 +177,18 @@ Hana睡吧
 
 ### 搜索Github仓库 (Github)
 
->github [xxx]
+'>github [xxx]'
 
->github -p [xxx]
+'>github -p [xxx]'
 
 Hana酱会给你详细的仓库信息ww~
 
 ### 在线代码运行(runcode)
 
 如果需要在线的调试 你可以安心的交给Hana酱哦w~
->runcode [language] help
+'>runcode [language] help'
 
->runcode [language] [code block]
+'>runcode [language] [code block]'
 
 ### 早安/晚安功能(sleepmanage)
 Hana会根据时间的不同 回复不同的话
@@ -183,7 +197,7 @@ Hana会根据时间的不同 回复不同的话
 
 Hana会帮你计算睡眠时间 不过因为是24小时计时制 Hana可能会犯错 (～￣▽￣)～
 
-### 查询Hana酱的身体~(aifalse)
+### 检查Hana酱的身体~(aifalse)
 
 Hana酱会报告自己的身体状况~
 
@@ -292,24 +306,28 @@ Hana 会骂你 (**默认是关闭的 记得自己打开**)
  酷狗点歌[xxx]
 
 ### 投胎功能(reborn)
+
 想法来源于 TG BOT 游戏
 
 reborn/我要重开/我要重生
+
+目前自己改了一些 例如降低印度被抽中概率/添加猫猫国/狗狗国/龙国
 
 ### 签到(score)
 很简单 在群中发送
 
 "签到"即可
 
-### 沙雕API (shadiao)
+### 沙雕API +OvOOA API(shadiao) 
 
+~~我太懒了 所以写在一起了 不要打我a.a~~
 哄我
 
 我好累
 
 @Hana 历史上的今天
 
-来访网易云热评
+来份网易云热评
 
 讲个段子
 
@@ -329,13 +347,13 @@ reborn/我要重开/我要重生
 
  ### B站用户查询(bilibili)
 
- >vup info [名字 | uid]
+ '>vup info [名字 | uid]'
 
- >user info [名字 | uid]
+ '>user info [名字 | uid]'
 
  /开启粉丝日报
 
-### B站动态推送(bilibilipush)
+### ~~B站动态推送(bilibilipush)~~
 
 **注意 为了防止一些争端 例如嘉心糖 设置了仅 群主/管理/超管 添加**
 
@@ -391,6 +409,17 @@ reborn/我要重开/我要重生
  vtb语录
  
  随机vtb
+
+### 图片打分 (nsfw)
+
+简单的图片打分系统
+图片打分
+
+### 图片放大 (scale)
+
+b站的图片放大模板~
+
+放大图片
 
 ## 指定关闭群的功能
 目前实现了 群主/管理 可以关闭
