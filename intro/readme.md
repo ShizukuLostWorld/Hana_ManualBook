@@ -14,7 +14,9 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 
-**NoneBot Plugin的开源项目不与FloatTech下的 Zerobot 互通 故不支持禁用 谢谢**
+**NoneBot Plugin的开源项目不与FloatTech下的 Zerobot 互通** 
+
+**故不支持禁用 谢谢**
 
 ## 调用较多的功能
 ### ~~龙图功能(nativesetu)~~
@@ -427,7 +429,55 @@ b站的图片放大模板~
 
 ## 关于 NoneBot Plugin 相关插件
 
-### 游戏抽卡模拟
+**提醒: 在这个模式下 触发的方式是:**
+
+**Hana，**
+
+例如: "Hana，塔罗牌" 才可以被识别
+
+### MeMe 表情包制作
+
+其实和Zerobot的 GIF 差不多 不过有更多的扩展
+
+触发: 群中发送 Hana，(指令)+@qq/qq号/图片/自己
+
+例如: Hana，亲1292581422
+
+以下方式均可实现:
+
+摸摸/rua/摸
+
+亲/亲亲
+
+贴/贴贴/蹭/蹭蹭
+
+顶/玩
+
+拍
+
+撕
+
+丢/扔
+
+爬
+
+精神支柱
+
+一直
+
+加载中
+
+转
+
+小天使
+
+不要靠近
+
+一样
+
+滚
+
+玩游戏/来玩游戏
 
 
 
