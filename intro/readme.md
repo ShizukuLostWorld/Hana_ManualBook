@@ -4,6 +4,8 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 基于 Onebot + ZeroBot + Golang 原生实现
 
+**本次更新加入了基于 NoneBot 的插件，借助更好的生态接入更多不错的功能**
+
 目前运营为 MoeMagicMango(MoYoez)
 
 本项目经本人基于1.2.5 v1 Beta Fix3 编译修改
@@ -11,8 +13,11 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 **Project: https://github.com/FloatTech/ZeroBot-Plugin**
 
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
+
+**NoneBot Plugin的开源项目不与FloatTech下的 Zerobot 互通 故不支持禁用 谢谢**
+
 ## 调用较多的功能
-### 龙图功能(nativesetu)
+### ~~龙图功能(nativesetu)~~
 这个触发的方法还是挺简单的,只需要在群中发送
 
 "来份🐉图" 即可 Hana 会自动给你发送一张 看人品的龙图
@@ -34,7 +39,7 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 速度很快~  ~~可以防止我服务器爆炸~~
 
-方法如下: 在群中发送 "来份涩图/来份二次元/来份车万/来份风景"
+方法如下: 在群中发送 "来份涩图/来份二次元/来份车万/来份猫猫"
 
 PS：如果调用指令, Hana 有一定概率会骂你 a.a
 
@@ -417,6 +422,12 @@ b站的图片放大模板~
 
 例如: /禁用 lolicon
 注意:目前针对单个群关闭 但关闭时整个插件关闭 自己注意下ww
+
+## 关于 NoneBot Plugin 相关插件
+
+### 游戏抽卡模拟
+
+
 
 ## 致谢
 
