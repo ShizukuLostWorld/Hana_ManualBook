@@ -582,6 +582,36 @@ fgo[1-9|一][0-9]{0,2}[抽]
 
 [抽签设置] 查看群抽签主题
 
+### COC骰子娘
+
+**WARNING: BETA FIX 可能存在插件兼容性问题**
+
+ coc.r 投掷指令
+
+ coc.sc san check
+
+ coc.st 射击命中判定
+
+ coc.ti 临时疯狂症状
+
+ coc.li 总结疯狂症状
+
+ coc.coc coc角色作成
+
+ coc.help 帮助信息
+
+ coc.en 技能成长
+
+ coc.set 角色卡设定
+
+ coc.show 角色卡查询
+
+ coc.sa 快速检定指令
+
+ coc.del 删除信息
+
+会玩的去玩吧 反正我是不会()
+
 ## 致谢
 
 FloatTech/Zerobot-Plugin 项目
