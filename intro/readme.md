@@ -40,48 +40,6 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh\_CN.md)
 
-## 目录查看+功能推荐
-
-* [一份关于 Hana 的食用说明](#一份关于-hana-的食用说明)
-   * [目录查看+功能推荐](#目录查看功能推荐)
-      * [调用较多的功能](#调用较多的功能)
-         * [涩图/二次元图片](#涩图二次元图片)
-      * [完整详细的功能介绍](#完整详细的功能介绍)
-         * [聊天功能](#聊天功能)
-         * [群管(需要Hana酱为管理)(Manager)](#群管需要hana酱为管理manager)
-         * [搜索Github仓库 (Github)](#搜索github仓库-github)
-         * [在线代码运行(runcode)](#在线代码运行runcode)
-         * [检查Hana酱的身体~(aifalse)](#检查hana酱的身体aifalse)
-         * [帮你做选择~(choose)](#帮你做选择choose)
-         * [骂你 a.a (curse)](#骂你-aa-curse)
-         * [制作GIF图片~恶搞使用w(gif)](#制作gif图片恶搞使用wgif)
-         * [炉石卡片搜索(hs)](#炉石卡片搜索hs)
-         * [点歌(music)](#点歌music)
-         * [投胎功能(reborn)](#投胎功能reborn)
-         * [签到(score)](#签到score)
-         * [沙雕API +OvOOA API(shadiao)](#沙雕api-ovooa-apishadiao)
-         * [随机测定(shindan)](#随机测定shindan)
-         * [B站用户查询(bilibili)](#b站用户查询bilibili)
-         * [嘉心糖发病(diana)](#嘉心糖发病diana)
-         * [随机老婆(aiwife)](#随机老婆aiwife)
-         * [评价图片(danbooru)](#评价图片danbooru)
-         * [自己上传属于自己的老婆(nativewife)](#自己上传属于自己的老婆nativewife)
-         * [搜索图片功能(saucenao)](#搜索图片功能saucenao)
-         * [搜索番剧(tracemoe)](#搜索番剧tracemoe)
-         * [VTB语录 (vtbquotation)](#vtb语录-vtbquotation)
-      * [指定关闭群的功能](#指定关闭群的功能)
-      * [关于 NoneBot Plugin 相关插件](#关于-nonebot-plugin-相关插件)
-         * [MeMe 表情包制作 (前置)](#meme-表情包制作-前置)
-         * [游戏抽卡功能](#游戏抽卡功能)
-         * [表情包制作 (前置)](#表情包制作-前置)
-         * [人生重开模拟器 (前置)](#人生重开模拟器-前置)
-         * [塔罗牌 (前置)](#塔罗牌-前置)
-         * [群中下棋 (前置)](#群中下棋-前置)
-         * [俄罗斯转盘游戏 (前置)](#俄罗斯转盘游戏-前置)
-         * [今天吃什么](#今天吃什么)
-         * [每日运势](#每日运势)
-      * [致谢](#致谢)
-
 ### 调用较多的功能
 
 #### 涩图/二次元图片
