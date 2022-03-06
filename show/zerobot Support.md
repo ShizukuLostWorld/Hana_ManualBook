@@ -327,18 +327,6 @@ reborn/我要重开/我要重生
 
 @Hana 一言
 
-### 随机测定(shindan)
-
- 今天是什么少女[@xxx]
- 
- 异世界转生[@xxx]
- 
- 卖萌[@xxx]
- 
- 抽老婆[@xxx]
-
- 如果不@他人 一般会指定是你自己w
-
  ### B站用户查询(bilibili)
 
  '>vup info [名字 | uid]'
