@@ -4,17 +4,17 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 基于 Onebot + ZeroBot + Golang 原生实现 配合 NoneBot Beta 生态支持
 
+~~即 ZBP+NB2 的说~~
+
 目前运营为 Morning Call(MoeMagicMango)
 
-本项目经本人基于1.2.5 v1 Beta Fix3 编译修改
+本项目经本人基于1.3.1 编译修改
 
 **Project: https://github.com/FloatTech/ZeroBot-Plugin**
 
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 
 提醒: **没有特别声明@Hana的 不需要@ 不然有一定概率不识别**
-
-**划掉的功能为出现问题/数据库丢失造成的 可能以后会修复**
 
 **友情提醒: Hana是机器人的名字**
 
@@ -28,7 +28,9 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 ~~夹子其实就是运营Morning Call(MoYoez)~~
 
-~~本项目参考开源项目 除代码外的Hana QQ均由本人一人负责~~
+~~本项目参考开源项目 故属于用爱发电(雾)~~
+
+**如果有需要自行定制内容 请自行 Clone 一份zbp项目 自行编辑使用 你做的不会比我差**
 
 ฅ( ̳• ◡ • ̳)ฅ
 
