@@ -419,7 +419,7 @@ emoji+emoji
 
 ### 翻译 (translation)
 
->TL hi
+'>TL hi'
 
 ### 通过关键词搜索图片 (image_finder)
 
