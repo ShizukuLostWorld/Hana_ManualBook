@@ -18,43 +18,16 @@
 
 例如: Hana，亲1292581422
 
-以下方式均可实现:
+<div align="left">
+  <img src="https://s2.loli.net/2022/03/18/s8ZuphBfxOtzKHV.jpg" width="400" />
+</div>
 
-```
-摸摸/rua/摸
+Examples:
 
-亲/亲亲
+具体可参考:
 
-贴/贴贴/蹭/蹭蹭
+https://github.com/MeetWq/nonebot-plugin-petpet
 
-顶/玩
-
-拍
-
-撕
-
-丢/扔
-
-爬
-
-精神支柱
-
-一直
-
-加载中
-
-转
-
-小天使
-
-不要靠近
-
-一样
-
-滚
-
-玩游戏/来玩游戏
-```
 ### 游戏抽卡功能
 
 在群中发送即可
@@ -86,7 +59,9 @@ fgo[1-9|一][0-9]{0,2}[抽]
 
 **在前置命令下，发送这样的内容即可**
 
-![memes](https://s2.loli.net/2022/01/19/KNnsQxOrFgouV6z.jpg)
+<div align="left">
+  <img src="https://s2.loli.net/2022/01/19/KNnsQxOrFgouV6z.jpg" width="500" />
+</div>
 
 例如 "Hana，鲁迅说 我没说过"
 
@@ -96,7 +71,7 @@ fgo[1-9|一][0-9]{0,2}[抽]
 
 需要在群中
 
-Hana，remake/liferestart/人生重开/人生重来
+@Hana Hana，remake/liferestart/人生重开/人生重来
 
 其中任意一种均可匹配触发
 
@@ -207,8 +182,6 @@ ygo [卡牌]
 
 卖萌 
 
-测测今天的猫生
-
 ### 今日番剧更新
 
 群内 @Hana 今日番剧
@@ -218,3 +191,9 @@ ygo [卡牌]
 ### 随机猫猫gif ！(前置)
 
 群内发送 Hana，来个猫猫 即可
+
+### 今日天气
+
+Hana，天气 城市名
+
+即可
