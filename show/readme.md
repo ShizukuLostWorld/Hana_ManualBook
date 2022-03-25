@@ -1,7 +1,5 @@
 # 🍭 一份关于 Hana 的食用说明
 
-## 3.22 18:50 Hana因被举报 色情传播 目前被腾讯官方封号一日 后期采取群聊清洗
-
 Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 基于 Onebot + ZeroBot + Golang 原生实现 配合 NoneBot Beta 生态支持
@@ -14,7 +12,7 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 **Project: https://github.com/FloatTech/ZeroBot-Plugin**
 
-**Hana正在使用的ZeroBot-Plugin Source Code: https://github.com/Shizuku-World/Hana_ZeroBot_SourceCode**
+**Hana正在使用的ZeroBot-Plugin Source: https://github.com/Shizuku-World/Hana_ZeroBot_SourceCode**
 
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 
