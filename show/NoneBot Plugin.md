@@ -197,3 +197,11 @@ ygo [卡牌]
 Hana，天气 城市名
 
 即可
+
+### Arcaea查分(前置)
+
+Hana，arc bind {id}	绑定您的 Arcaea 账户, id 应为 9 位数字
+Hana，arc unbind	删除您的绑定信息
+Hana，arc info	查询您的绑定信息
+Hana，arc recent	查询您的最近游玩信息
+Hana，arc b30	查询您的 best 30 记录
