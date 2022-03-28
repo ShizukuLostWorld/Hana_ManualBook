@@ -31,7 +31,6 @@ ZeroBot 是基于 Go 语言编写的触发交互通信工具
 
 **PS:Action 为 Hana酱的触发功能 ~~可以理解为刷存在感~~**
 
-```
 
 **关键词匹配**
 
@@ -51,9 +50,6 @@ ZeroBot 是基于 Go 语言编写的触发交互通信工具
 
 @Hana 会csgo
 
-```
-
-```
 
 **全局匹配**
 
@@ -74,11 +70,11 @@ ZeroBot 是基于 Go 语言编写的触发交互通信工具
 呜呜
 
 @Hana MoYoez/MoeMagicMango
-```
+
 
 #### 一些基础的Chat回复(chat)
 
-```
+
 
 Hana
 
@@ -91,7 +87,7 @@ Hana
 群温度
 
 设置温度\[正整数]
-```
+
 
 #### 词典回复（二次元浓度贼高）(thesaurus)
 
@@ -100,9 +96,9 @@ Hana
 #### 项目 ATRI 的回复(atri)
 
 
-Hana醒醒
+@Hana Hana醒醒
 
-Hana睡吧
+@Hana Hana睡吧
 
 @Hana 喜欢 | 爱你 | 爱 | suki | daisuki | すき | 好き | 贴贴 | 老婆 | 亲一个 | mua
 
@@ -181,24 +177,22 @@ Hana睡吧
 
 ### 搜索Github仓库 (Github)
 
-```
 
 '>github [xxx]'
 
 '>github -p [xxx]'
-```
+
+
 Hana酱会给你详细的仓库信息ww~
 
 ### 在线代码运行(runcode)
 
 如果需要在线的调试 你可以安心的交给Hana酱哦w~
 
-```
-
 '>runcode [language] help'
 
 '>runcode [language] [code block]'
-```
+
 
 ### 帮你做选择~(choose)
 
