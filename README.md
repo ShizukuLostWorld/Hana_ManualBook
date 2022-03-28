@@ -1,11 +1,16 @@
-## Hana-Introduction
+---
+cover: .gitbook/assets/20210810_010328 (1).jpg
+coverY: 0
+---
 
-A manual Book For Hana 
+# README
 
-## Tips
+### Hana-Introduction
+
+A manual Book For Hana
+
+### Tips
 
 如果有需要请优先查询这个哦
 
 GitBook Here: https://hana.himoyo.cn
-
-

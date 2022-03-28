@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/45b4203619d3782acd8efe8455642141.png
+coverY: 0
+---
+
 # 🍭关于 ZeroBot Plugin 相关插件
 
 ZeroBot 是基于 Go 语言编写的触发交互通信工具

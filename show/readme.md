@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/IMG_20211011_001458_108.jpg
+coverY: 0
+---
+
 # 🌈一份关于 Hana 的食用说明
 
 Hana 是 HiMoYo 名下的 Mirai Bot 项目
