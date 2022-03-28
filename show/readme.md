@@ -1,4 +1,4 @@
-# 🍭 一份关于 Hana 的食用说明
+# 🌈一份关于 Hana 的食用说明
 
 Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
@@ -12,7 +12,7 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 **Project: https://github.com/FloatTech/ZeroBot-Plugin**
 
-**Hana正在使用的ZeroBot-Plugin Source: https://github.com/Shizuku-World/Hana_ZeroBot_SourceCode**
+**Hana正在使用的ZeroBot-Plugin Source: https://github.com/Shizuku-World/Hana\_ZeroBot\_SourceCode**
 
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 
