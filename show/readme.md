@@ -13,7 +13,7 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 目前运营为 Morning Call(MoeMagicMango)
 
-本项目经本人基于1.3.1 编译修改
+本项目经本人基于1.3.2 编译修改
 
 **Project: https://github.com/FloatTech/ZeroBot-Plugin**
 
