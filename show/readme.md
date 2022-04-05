@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/IMG_20211011_001458_108.jpg
+cover: https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBookhelper@main/.gitbook/assets/IMG_20211011_001458_108.jpg
 coverY: 0
 ---
 
