@@ -5,7 +5,7 @@ coverY: 0
 
 # README
 
-### Hana-Introduction
+### Hana-ManualBookHelper
 
 A manual Book For Hana
 
@@ -14,3 +14,5 @@ A manual Book For Hana
 如果有需要请优先查询这个哦
 
 GitBook Here: https://hana.himoyo.cn
+
+这边是 GitHub的项目文档 你应该是在GitBook才对
