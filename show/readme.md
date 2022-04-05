@@ -21,7 +21,7 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 **Hana正在使用的ZeroBot-Plugin Source:**
 
-**https://github.com/Shizuku-World/Hana\_ZeroBot\_SourceCode**
+**https://github.com/ShizukuLostWorld/Hana\_ZeroBot\_SourceCode**
 
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 
