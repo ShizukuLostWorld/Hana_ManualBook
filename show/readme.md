@@ -15,9 +15,13 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 
 本项目经本人基于1.3.2 编译修改
 
-**Project: https://github.com/FloatTech/ZeroBot-Plugin**
+**Project:**
 
-**Hana正在使用的ZeroBot-Plugin Source: https://github.com/Shizuku-World/Hana\_ZeroBot\_SourceCode**
+**https://github.com/FloatTech/ZeroBot-Plugin**
+
+**Hana正在使用的ZeroBot-Plugin Source:**
+
+**https://github.com/Shizuku-World/Hana\_ZeroBot\_SourceCode**
 
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 
@@ -34,12 +38,6 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 **所以有时候是夹子在回复你哦**
 
 ~~夹子其实就是运营Morning Call(MoYoez)~~
-
-~~本项目参考开源项目 故属于用爱发电(雾)~~
-
-**如果有需要自行定制内容 请自行 Clone 自行编辑使用 你做的不会比我差**
-
-ฅ( ̳• ◡ • ̳)ฅ
 
 **本人没有义务回答你的问题**
 
