@@ -13,7 +13,7 @@ coverY: 0
 
 点歌(点歌 xxx)
 
-群老婆( 哪个群友是我老婆  ⚠一天一次)
+群老婆(哪个群友是我老婆  ⚠一天一次)
 
 随机游戏抽卡(具体查看 Nonebot下GameDraw)
 
@@ -25,15 +25,15 @@ coverY: 0
 
 每日运势 (Hana，运势)
 
-俄罗斯转盘 (具体查看 nonebot Plugin下的俄罗斯转盘)
+俄罗斯转盘(具体查看 nonebot Plugin下的俄罗斯转盘)
 
-文爱回复功能 (Zerobot下thesaurus)
+文爱回复功能(Zerobot下thesaurus)
 
-群中下棋 (Nonebot下插件)
+群中下棋(Nonebot下插件)
 
 随机测定(抽老婆/抽舰娘,etc.)
 
-游戏王 (ygo 卡牌)
+游戏王(ygo 卡牌)
 
 天气(Hana，天气 合肥)
 
@@ -45,7 +45,7 @@ Hana群管 (Zerobot下#Manager插件)
 
 每日签到(一天一次 顺便还送一张图)
 
-随机gal图片 （见 Zerobot 下 ymgal）
+随机gal图片（见 Zerobot 下 ymgal）
 
 bilibili推送相关(Zerobot 下 bilibilipush)
 
