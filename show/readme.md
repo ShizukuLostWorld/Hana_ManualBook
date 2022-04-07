@@ -3,44 +3,50 @@ cover: https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBookhelper@main/.
 coverY: 0
 ---
 
-# 🌈一份关于 Hana 的食用说明
+# 🌈一些关于 Hana 的特色功能
 
-Hana 是 HiMoYo 名下的 Mirai Bot 项目
+随机图片 (来份猫猫/二次元/车万)
 
-基于 Onebot + ZeroBot + Golang 原生实现 配合 NoneBot Beta 生态支持
+我要重开 (@Hana Hana，remake)
 
-~~即 Zerobot-Plugin + NoneBot2 的说~~
+表情包生成器 (具体查看 Nonebot插件相关)
 
-目前运营为 Morning Call(MoeMagicMango)
+点歌(点歌 xxx)
 
-本项目经本人基于1.3.2 编译修改
+群老婆( 哪个群友是我老婆  ⚠一天一次)
 
-**Project:**
+随机游戏抽卡(具体查看 Nonebot下GameDraw)
 
-**https://github.com/FloatTech/ZeroBot-Plugin**
+随机投胎(reborn)
 
-**Hana正在使用的ZeroBot-Plugin Source:**
+~~Arcaeabot查分器~~(Nonebot插件下详情)
 
-**https://github.com/ShizukuLostWorld/Hana_ZeroBot_SourceCode**
+塔罗牌！(Hana，抽签/占卜)
 
-**Copyright © 2021-2022 FloatTech. All Rights Reserved.**
+每日运势 (Hana，运势)
 
-提醒: **没有特别声明@Hana的 不需要@ 不然有一定概率不识别**
+俄罗斯转盘 (具体查看 nonebot Plugin下的俄罗斯转盘)
 
-**友情提醒: Hana是机器人的名字**
+文爱回复功能 (Zerobot下thesaurus)
 
-**如果在执行命令前带上Hana的名字**
+群中下棋 (Nonebot下插件)
 
-**可以达到@Hana的效果**
+随机测定(抽老婆/抽舰娘,etc.)
 
-**另外\~夹子有时候会上线查看机器人情况**
+游戏王 (ygo 卡牌)
 
-**所以有时候是夹子在回复你哦**
+天气(Hana，天气 合肥)
 
-~~夹子其实就是运营Morning Call(MoYoez)~~
+随机猫猫动图 (Hana，来个猫猫)
 
-**本人没有义务回答你的问题**
+今日番剧(@Hana 今日番剧)
 
-**如果有问题 请事先查询说明书 检查是否正确触发 谢谢**！
+Hana群管 (Zerobot下#Manager插件)
 
-[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh\_CN.md)
+每日签到(一天一次 顺便还送一张图)
+
+随机gal图片 （见 Zerobot 下 ymgal）
+
+bilibili推送相关(Zerobot 下 bilibilipush)
+
+随机小姐姐~(我要一份小姐姐)
