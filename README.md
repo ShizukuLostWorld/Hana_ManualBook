@@ -3,9 +3,9 @@ cover: https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBookhelper@main/.
 coverY: 0
 ---
 
-# README
+### Welcome~ /_(:з」∠)_
 
-### Hana-ManualBookHelper
+这边是夹子 这是一份关于 Hana的说明书.
 
 A manual Book For Hana
 
