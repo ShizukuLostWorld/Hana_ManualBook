@@ -9,23 +9,23 @@ coverY: 0
 
 我要重开 (@Hana Hana，remake)
 
-表情包生成器 (具体查看 Nonebot插件相关)
+表情包生成器 (Nonebot插件相关)
 
 点歌(点歌 xxx)
 
-群老婆(哪个群友是我老婆  ⚠一天一次)
+群老婆(哪个群友是我老婆)
 
-随机游戏抽卡(具体查看 Nonebot下GameDraw)
+随机游戏抽卡(具体查看Nonebot下GameDraw)
 
 随机投胎(reborn)
 
-~~Arcaeabot查分器~~(Nonebot插件下详情)
+Arcaeabot查分器(Nonebot插件下详情)
 
 塔罗牌！(Hana，抽签/占卜)
 
 每日运势 (Hana，运势)
 
-俄罗斯转盘(具体查看 nonebot Plugin下的俄罗斯转盘)
+俄罗斯转盘(Nonebot Plugin 俄罗斯转盘)
 
 文爱回复功能(Zerobot下thesaurus)
 
@@ -50,3 +50,7 @@ Hana群管 (Zerobot下#Manager插件)
 bilibili推送相关(Zerobot 下 bilibilipush)
 
 随机小姐姐~(我要一份小姐姐)
+
+炉石搜索 (送卡 xxx)
+
+vtb语录
