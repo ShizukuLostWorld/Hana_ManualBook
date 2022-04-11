@@ -7,23 +7,15 @@ coverY: 0
 
 这边是夹子 这是一份关于 Hana 的说明书
 
-Hana 是 HiMoYo 名下的 Mirai Bot 项目
+Hana 基于 FloatTech/ZeroBot-Plugin Ver.1.3.2 + Nonebot2 Beta2 实现
 
-基于 Onebot + ZeroBot + Golang 原生实现 配合 NoneBot2 生态支持
+[Project](https://github.com/FloatTech/ZeroBot-Plugin)
 
-本项目经本人基于 FloatTech/ZeroBot-Plugin Ver.1.3.2 + Nonebot2 Beta2 修改
-
-**Project:**
-
-**https://github.com/FloatTech/ZeroBot-Plugin**
-
-**Hana正在使用的ZeroBot-Plugin Source:**
-
-**https://github.com/ShizukuLostWorld/Hana_ZeroBot_SourceCode**
+[Hana's SourceCode](https://github.com/ShizukuLostWorld/Hana_ZeroBot_SourceCode)
 
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 
-**盯~: Hana是机器人的名字**
+**盯~ Hana是机器人的名字**
 
 **如果在执行命令前带上Hana的名字**
 
@@ -48,3 +40,5 @@ Hana 是 HiMoYo 名下的 Mirai Bot 项目
 GitBook Here: https://hana.himoyo.cn
 
 这边是 GitHub 的项目文档 你应该是在GitBook才对
+
+--
