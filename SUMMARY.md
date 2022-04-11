@@ -6,3 +6,4 @@
 * [🍭关于 ZeroBot Plugin 相关插件](<show/ZeroBotplugin_Helper.md>)
 * [✨一些关于Master的说明](show/ContactMe.md)
 * [🤔邀请 Hana 入群相关事宜](show/InviteHana.md)
+* [⚠隐私相关](show/PrivateWARN.md)
