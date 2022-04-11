@@ -38,5 +38,3 @@ Hana 基于 FloatTech/ZeroBot-Plugin Ver.1.3.2 + Nonebot2 Beta2 实现
 GitBook Here: https://hana.himoyo.cn
 
 这边是 GitHub 的项目文档 你应该是在GitBook才对
-
---
