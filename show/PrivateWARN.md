@@ -1,3 +1,8 @@
+---
+cover: https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBookhelper@lastest/.gitbook/assets/353498419920220412.png
+coverY: 0
+---
+
 # 关于您的个人隐私相关
 
 > 在使用 Hana 之前 希望你可以详细阅读 此文档 有助于你对 Hana 的认识
