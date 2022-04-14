@@ -35,4 +35,6 @@ coverY: 0
 
 ![HanaGroup](https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBookhelper@v0.2/.gitbook/assets/qrcode_1649868304896.jpg)
 
-向夹子私信即可w
+私聊夹子 在发送群聊号/自己身份后
+
+邀请夹子加入需要的群聊 夹子在晚十二点后拉入Hana
