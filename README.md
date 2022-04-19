@@ -7,7 +7,7 @@ coverY: 0
 
 这边是夹子 这是一份关于 Hana 的说明书
 
-Hana 基于 FloatTech/ZeroBot-Plugin Ver.1.3.2 + Nonebot2 Beta2 实现
+Hana 基于 FloatTech/ZeroBot-Plugin Ver.1.3.3 + Nonebot2 Beta2 实现
 
 [Project](https://github.com/FloatTech/ZeroBot-Plugin) | [Hana's SourceCode](https://github.com/ShizukuLostWorld/Hana_ZeroBot_SourceCode)
 
