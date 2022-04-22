@@ -15,7 +15,7 @@ coverY: 0
 
 [Project](https://github.com/FloatTech/ZeroBot-Plugin) | [Hana's SourceCode](https://github.com/ShizukuLostWorld/Hana_ZeroBot_SourceCode)
 
-             **Made With MoeMagicMango🎁**
+**Made With MoeMagicMango🎁**
 
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 
