@@ -7,17 +7,19 @@ coverY: 0
 
 这边是夹子 这是一份关于 Hana 的说明书
 
-Hana 基于 FloatTech/ZeroBot-Plugin Ver.1.3.3 + Nonebot2 Beta2 实现
+**OneBot + Zerobot + Nonebot2 with ZeroBot-Plugin Project.**
+
+---
+
+基于源 ZeroBot-Plugin 修改而成的 Hana，
 
 [Project](https://github.com/FloatTech/ZeroBot-Plugin) | [Hana's SourceCode](https://github.com/ShizukuLostWorld/Hana_ZeroBot_SourceCode)
 
+             **Made With MoeMagicMango🎁**
+
 **Copyright © 2021-2022 FloatTech. All Rights Reserved.**
 
-**盯~ Hana是机器人的名字**
 
-**如果在执行命令前带上Hana的名字**
-
-**可以达到@Hana的效果**
 
 ---
 
