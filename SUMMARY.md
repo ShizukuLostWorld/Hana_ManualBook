@@ -5,5 +5,4 @@
 * [🌈OverView For Hana's Magic✨.](show/ManualBookExtended.md)
 * [🤔邀请 Hana 入群事宜](show/InviteHana.md)
 * [🎁隐私相关](show/PrivateWARN.md)
-* [🍀关于NoneBot Plugin插件](<show/NoneBot2_Helper.md>)
-* [🍭关于ZeroBot Plugin插件](<show/ZeroBotPlugin_Helper.md>)
+
