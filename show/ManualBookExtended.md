@@ -1,4 +1,3 @@
-
 ---
 cover: https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBookhelper@v0.1/.gitbook/assets/-195ea3f423d811ed.jpg
 coverY: 0
