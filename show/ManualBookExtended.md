@@ -1,3 +1,4 @@
+
 ---
 cover: https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBookhelper@v0.1/.gitbook/assets/-195ea3f423d811ed.jpg
 coverY: 0
@@ -92,6 +93,7 @@ Hana
 
 >* 签到 (etc...各类游戏签到)
 >* Hana，今日运势/抽签/运势
+>* Hana，占卜
 >* Hana，早安/晚安
 >* 今天是什么少女
 >* 人设生成
@@ -191,6 +193,8 @@ Hana
 > 舔狗日记
 > vtb语录/随机vtb
 > 随机galCG | 随机gal表情包 | galCG[xxx] | gal表情包[xxx]
+> @Hana 今日番剧
+
 
 
 ### 群内互动
@@ -198,6 +202,37 @@ Hana
 > 今天哪个群友是我老婆
 > 今日小可爱
 > 点歌 xxx
+
+### 表情包生成器
+
+指令为 **Hana，**
+
+请按照这个执行
+![](https://s2.loli.net/2022/03/30/jMw7aCtIhK8vORx.jpg)
+
+一并支持
+
+![](https://s2.loli.net/2022/01/19/KNnsQxOrFgouV6z.jpg)
+
+### 早晚安~
+
+早晚安：Hana，早安/晚安，记录睡眠时间
+
+查看我的作息：Hana，我的作息
+
+查看群友作息：Hana，群友作息，看看今天几个人睡觉或起床了
+
+查看配置当前安晚安规则：Hana，早晚安设置
+
+[群管或群主或超管] Hana，设置命令
+
+开启/关闭某个配置：Hana，早安/晚安开启/关闭某项功能；
+
+早安/晚安设置：Hana，设置功能的参数；
+
+### 天气查询
+
+Hana，天气 城市名
 
 ## 小游戏
 
@@ -209,3 +244,123 @@ Hana
 
 > (个人|团队)(五阶|六阶|七阶)猜单词
 
+### 人生重开模拟器
+
+>@Hana Hana，remake/liferestart/人生重开/人生重来
+
+### 游戏抽卡
+
+方舟\[1-9|一]\[0-9]{0,2}\[抽|井]
+
+原神(武器|角色)池?\[1-9|一]\[0-9]{0,2}\[抽|井]
+
+马娘卡\[1-9|一]\[0-9]{0,2}\[抽|井]
+
+坎公骑冠剑武器\[1-9|一]\[0-9]{0,2}\[抽|井]
+
+(pcr|公主连结|公主连接|公主链接|公主焊接)\[1-9|一]\[0-9]{0,2}\[抽|井]
+
+碧蓝航?线?(轻型|重型|特型)池\[1-9|一]\[0-9]{0,2}\[抽]
+
+fgo\[1-9|一]\[0-9]{0,2}\[抽]
+
+阴阳师\[1-9|一]\[0-9]{0,2}\[抽]
+
+举个例子\~:
+**群中发送 方舟10抽/原神100抽 即可**
+
+### 俄罗斯转盘
+
+获取金币：Hana，轮盘签到
+
+开启游戏：Hana，装弹 \[子弹数] \[金额] @(Soneone)
+
+接受对决：Hana，接受对决/接受挑战/拒绝决斗/拒绝挑战
+
+开始对决：Hana，开枪/咔/嘭/嘣 \[子弹数]（轮流开枪，根据子弹数连开N枪，30秒未开枪另一方可使用‘结算’命令结束对决并胜利）
+
+结算：Hana，结算（当某一方30秒未开枪，可使用该命令强行结束对决并胜利）
+
+我的战绩：Hana，我的战绩
+
+我的金币：Hana，我的金币
+
+排行榜：Hana，金币排行/胜场排行/败场排行/欧洲人排行/慈善家排行 【注：同一时间群内只能有一场对决】
+
+### 扫雷
+
+是wq大佬写的插件
+
+> Hana，扫雷 / 扫雷初级 / 扫雷中级 / 扫雷高级
+
+开始游戏
+
+使用 Hana，挖开/open + 位置 来挖开方块，可同时指定多个位置；
+
+使用 Hana，标记/mark + 位置 来标记方块，可同时指定多个位置；
+
+位置为 字母+数字 的组合，如“A1”
+
+项目名称: nonebot-plugin-minesweeper
+
+### 疯狂星期四
+
+疯狂星期[一|二|三|四|五|六|日|天]
+
+狂乱[月|火|水|木|金|土|日]
+
+### 投骰子
+
+> Hana，rd、掷骰，后接“[x]d[y]”， x指定个数，y指骰子面数。
+
+example: Hana，rd1d3 
+
+### Arcaea查分
+
+>Hana，arc bind {id} 绑定您的 Arcaea 账户, id 应为 9 位数字
+
+>Hana，arc unbind 删除您的绑定信息
+
+>Hana，arc info 查询您的绑定信息
+
+>Hana，arc recent 查询您的最近游玩信息
+
+>Hana，arc b30 查询您的 best 30 记录
+
+## Thanks
+
+nonebot_plugin_anime_news
+
+random_cat_gif
+
+nonebot_plugin_gamedraw
+
+nonebot_plugin_shindan
+
+nonebot_plugin_petpet
+
+nonebot_plugin_russian
+
+nonebot_plugin_minesweeper
+
+nonebot_plugin_roll
+
+nonebot_plugin_morning
+
+nonebot_plugin_crazy_thursday
+
+nonebot_plugin_arcaeabot
+
+nonebot_plugin_fortune
+
+nonebot_plugin_meme
+
+nonebot_plugin_remake
+
+nonebot_plugin_tarot
+
+nonebot_plugin_weather_lite
+
+nonebot_plugin_what2eat
+
+Zerobot_Plugin 项目
