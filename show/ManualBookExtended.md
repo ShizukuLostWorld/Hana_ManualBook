@@ -231,52 +231,6 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 >百度下 xxx
 
-## 娱乐功能
-
-### 基于 API 的一部分功能
-
-> 答案之书
-
-> 哄我
-
-> @Hana 历史上的今天
-
-> 来份网易云热评
-
-> @Hana 一言
-
-> @Hana 动漫一言
-
-> 舔狗日记
-
-> vtb语录/随机vtb
-
-> 随机galCG | 随机gal表情包 | galCG[xxx] | gal表情包[xxx]
-
-> @Hana 今日番剧
-
-> 今日早报
-
-### 群内互动
-
-> 今天哪个群友是我老婆
-
-> 今日小可爱
-
-> 点歌 xxx
-
-### 表情包生成器
-
-指令为 **Hana，**
-
-请按照这个执行
-
-![](https://s2.loli.net/2022/03/30/jMw7aCtIhK8vORx.jpg)
-
-一并支持
-
-![](https://s2.loli.net/2022/01/19/KNnsQxOrFgouV6z.jpg)
-
 ### 早晚安~
 
 早晚安，记录睡眠时间
@@ -304,6 +258,54 @@ R || VB || Py2 || Perl || Pascal || Scala
 ### 天气查询
 
 > Hana，天气 城市名
+
+### 早报
+
+> 今日早报
+
+### 随机一言
+
+> @Hana 一言
+
+## 娱乐功能
+
+### 基于 API 的一部分功能
+
+> 答案之书
+
+> 哄我
+
+> 来份网易云热评
+
+> @Hana 动漫一言
+
+> 舔狗日记
+
+> vtb语录/随机vtb
+
+> 随机galCG | 随机gal表情包 | galCG[xxx] | gal表情包[xxx]
+
+> @Hana 今日番剧
+
+### 群内互动
+
+> 今天哪个群友是我老婆
+
+> 今日小可爱
+
+> 点歌 xxx
+
+### 表情包生成器
+
+指令为 **Hana，**
+
+请按照这个执行
+
+![](https://s2.loli.net/2022/03/30/jMw7aCtIhK8vORx.jpg)
+
+一并支持
+
+![](https://s2.loli.net/2022/01/19/KNnsQxOrFgouV6z.jpg)
 
 ## 小游戏
 
