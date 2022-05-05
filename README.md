@@ -13,7 +13,7 @@ coverY: 0
 
 基于源 ZeroBot-Plugin 修改而成的 Hana，
 
-[Project](https://github.com/FloatTech/ZeroBot-Plugin) | [Hana's SourceCode](https://github.com/ShizukuLostWorld/Hana_ZeroBot_SourceCode)
+[Project](https://github.com/FloatTech/ZeroBot-Plugin) | [Hana's SourceCode](https://github.com/ShizukuLostWorld/Hana_ZeroBot)
 
 **Made By MoeMagicMango with ❤**
 
