@@ -2,7 +2,11 @@
 cover: https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBookhelper@main/.gitbook/assets/20210810_010328.jpg
 coverY: 0
 ---
-
+<div align="center">
+  <a href="https://crypko.ai/crypko/YFJJYszUjYkfW/">
+  <img src="https://raw.githubusercontent.com/ShizukuLostWorld/Hana_ZeroBot/main/.github/XL.jpg" alt="咱想给Hana的人设" width = "400">
+   </a><br>
+</div>
 ### 🌈Welcome~ \_(:з」∠)_
 
 这边是夹子 这是一份关于 Hana 的说明书
