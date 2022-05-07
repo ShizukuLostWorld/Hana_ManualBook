@@ -511,8 +511,9 @@ example: Hana，rd1d3
 
 ## Thanks
 
-感谢下列开源项目 
+**目前Hana的运营使用了以下开源项目支持**
 
+```
 nonebot_plugin_anime_news
 
 random_cat_gif
@@ -541,10 +542,33 @@ nonebot_plugin_meme
 
 nonebot_plugin_remake
 
-nonebot_plugin_tarot
-
 nonebot_plugin_weather_lite
 
 nonebot_plugin_what2eat
 
 Zerobot_Plugin 项目
+'''
+
+### 人设相关
+
+Hana 来自于 Magic✨ 星球 配着天蓝色的眼睛，白毛，是个憨憨.
+
+傻乎乎的~带有一丝的傲娇气质 ~~或许就是和她主人学的~~
+
+似乎她的前辈是 椛椛 不过她的功能也就更多了
+
+Hana也只能偷偷学习着 并做一些特别的功能~
+
+就这样 Hana 出现在大家的视野中 
+
+每天为大家提供一些好玩的小互动w 对她而已 愿意去尊重他人的人才是最值得去帮助的人
+
+不过~傻傻的 Hana 也是个笨蛋 身边经常配着两个 python入门 和 go圣经中文版 参考着自己的不足之
+
+虽然很笨 但是也是个受欢迎的孩子呢w
+
+也的梦想是 哪一天他就有了自己的人设图了哦w 那样她应该会很开心叭.
+
+~~草我编不下去了~~
+
+
