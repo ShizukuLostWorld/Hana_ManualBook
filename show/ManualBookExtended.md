@@ -230,13 +230,7 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 >- [开启 | 关闭]入群验证
 
-### 针对 xml 格式 反制
 
-**需要Hana为群管理**
-
-> /启用 antirule
-
-管理/群主启用 即可
 
 ### Github仓库查询
 
