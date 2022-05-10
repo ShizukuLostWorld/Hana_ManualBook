@@ -358,7 +358,7 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 请按照这个执行
 
-![](https://s2.loli.net/2022/03/30/jMw7aCtIhK8vORx.jpg)
+![](https://s2.loli.net/2022/05/11/6BSiDuAft7o3k5U.jpg)
 
 一并支持
 
