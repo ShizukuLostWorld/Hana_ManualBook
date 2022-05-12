@@ -236,7 +236,7 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 >">github -p {name}"
 
-### Regex自定义回复
+### Regex自定义回复/正则表达式
 
 **Wd佬的插件 仅支持管理/群主**
 
@@ -248,6 +248,9 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 可能你需要这个 [正则表达式](https://www.runoob.com/regexp/regexp-syntax.html)
 
+**这个插件的优先度是1 注意使用 可能会挤掉Hana的回复**
+
+**如果发现滥用情况 立刻撤掉白名单权限**
 
 ### 疫情查询
 
