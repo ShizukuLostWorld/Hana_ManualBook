@@ -230,13 +230,24 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 >- [开启 | 关闭]入群验证
 
-
-
 ### Github仓库查询
 
 >">github {name}"
 
 >">github -p {name}"
+
+### Regex自定义回复
+
+**Wd佬的插件 仅支持管理/群主**
+
+> [我|大家|有人][说|问]"触发词"(支持正则)你[答|说]
+
+> [查看|看看][我|大家|有人][说|问]
+
+> 删除[我|大家|有人][说|问]"触发词"
+
+可能你需要这个 [正则表达式](https://www.runoob.com/regexp/regexp-syntax.html)
+
 
 ### 疫情查询
 
