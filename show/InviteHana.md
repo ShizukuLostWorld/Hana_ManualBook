@@ -33,7 +33,7 @@ coverY: 0
 
 如已经符合以上条例 请 加入群聊
 
-![HanaGroup](https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBookhelper@v0.2/.gitbook/assets/qrcode_1649868304896.jpg)
+![HanaGroup](https://raw.githubusercontent.com/ShizukuLostWorld/Hana_ManualBookHelper/main/.gitbook/assets/qrcode_1652543340195.jpg)
 
 私聊夹子 在发送群聊号/自己身份后
 
