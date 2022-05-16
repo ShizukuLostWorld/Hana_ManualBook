@@ -354,8 +354,6 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 ### 群内互动
 
-> 今天哪个群友是我老婆 
-
 > 今日小可爱
 
 > 点歌 xxx
@@ -554,6 +552,8 @@ nonebot_plugin_remake
 nonebot_plugin_weather_lite
 
 nonebot_plugin_what2eat
+
+nonebot_plugin_wordcloud
 
 Zerobot_Plugin 项目
 ```
