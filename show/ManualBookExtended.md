@@ -5,6 +5,8 @@ coverY: 0
 
 # 🌈OverView For Hana's Magic✨.
 
+> 部分默认关闭的功能属于是风险功能 会带有撤回 请理解 谢谢
+
 ## 回复
 
 ```
