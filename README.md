@@ -5,6 +5,7 @@ coverY: 0
 
 ![](https://socialify.git.ci/ShizukuLostWorld/Hana_ZeroBot/image?description=1&font=Bitter&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FShizukuLostWorld%2FHana_ZeroBot%2Fmain%2F.github%2FIMG_20220515_001727.jpg&name=1&owner=1&pattern=Charlie%20Brown&theme=Light)
 ![](https://img.shields.io/badge/HiMoYo-Hana-blue)     ![](https://img.shields.io/badge/LICENSE-GPL3.0-brightgreen)   ![](https://img.shields.io/badge/Server-AliYun-yellowgreen)  ![](https://img.shields.io/badge/FrameWork-OneBot-blue)
+[![CodeFactor](https://www.codefactor.io/repository/github/shizukulostworld/hana_zerobot/badge)](https://www.codefactor.io/repository/github/shizukulostworld/hana_zerobot)
 
 ### 🌈Welcome~ \_(:з」∠)_
 
