@@ -1,5 +1,5 @@
 ---
-cover: https://cdn.jsdelivr.net/gh/shizukulostworld/Hana_ManualBook@v0.1/.gitbook/assets/353498419920220412.png
+cover: https://fastly.jsdelivr.net/gh/shizukulostworld/Hana_ManualBook@v0.1/.gitbook/assets/353498419920220412.png
 coverY: 0
 ---
 
