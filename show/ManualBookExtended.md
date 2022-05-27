@@ -31,6 +31,7 @@ Hana酱
 @Hana 抱住
 @Hana 举高高
 @Hana MoYoez/MoeMagicMango
+@Hana 加群/邀请
 ```
 
 ```
@@ -71,7 +72,6 @@ Hana酱
 
 ```
 喵/喵喵/喵喵喵
-你好
 呜呜
 咕咕
 小鱼干
@@ -80,7 +80,6 @@ Hana酱
 哈哈哈
 离谱
 呜呜/呜呜呜
-都怪Zheic
 我要(*)份涩图
 ```
 
