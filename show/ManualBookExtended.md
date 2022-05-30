@@ -501,8 +501,6 @@ example: Hana，rd1d3
 ```
 nonebot_plugin_anime_news
 
-random_cat_gif
-
 nonebot_plugin_gamedraw
 
 nonebot_plugin_shindan
