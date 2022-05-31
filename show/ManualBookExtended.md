@@ -354,8 +354,6 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 > 随机galCG | 随机gal表情包 | galCG[xxx] | gal表情包[xxx]
 
-> @Hana 今日番剧
-
 ### 群内互动
 
 > 今日小可爱
@@ -494,12 +492,38 @@ example: Hana，rd1d3
 
 随机指定难度区间的歌曲
 
+### MC 服务器查询
+
+> Hana，mc list 
+
+查看当前会话（群/私聊）的关注服务器列表
+
+> Hana，mc add server address 
+
+添加服务器到当前会话（群/私聊）的关注服务器列表
+
+> Hana，mc remove server 
+
+从当前会话（群/私聊）的关注服务器列表移除服务器
+
+> Hana，mc check address 
+
+查看指定地址的服务器状态（一次性）
+
+### 明日方舟工具箱
+
+> Hana，方舟最新活动
+
+> Hana，方舟今日资源
+
 ## Thanks
 
 **目前Hana的运营使用了以下开源项目支持**
 
 ```
-nonebot_plugin_anime_news
+nonebot_plugin_ArkTools
+
+nonebot_plugin_mcstatus
 
 nonebot_plugin_gamedraw
 
