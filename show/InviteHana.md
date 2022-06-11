@@ -3,8 +3,6 @@ cover: https://fastly.jsdelivr.net/gh/shizukulostworld/Hana_ManualBook@main/.git
 coverY: 0
 ---
 
-# 6.2号 暂停邀请入群申请
-
 # 🤔邀请 Hana 入群 相关事宜
 
 申请 Hana 即意味着 你已经阅读并同意了 隐私相关条款
