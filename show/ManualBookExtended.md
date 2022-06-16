@@ -395,7 +395,7 @@ R || VB || Py2 || Perl || Pascal || Scala
 
 > (个人|团队)(五阶|六阶|七阶)猜单词
 
-### 人生重开模拟器
+### 人生重开模拟器 ()
 
 > @Hana Hana，remake/liferestart/人生重开/人生重来
 
@@ -505,38 +505,39 @@ example: Hana，rd1d3
 
 **目前Hana的运营使用了以下开源项目支持**
 
-```
 
-nonebot_plugin_gamedraw
 
-nonebot_plugin_shindan
+- Nonebot-plugin-gamedraw
 
-nonebot_plugin_petpet
+- Nonebot-plugin-shindan
 
-nonebot_plugin_minesweeper
+- Nonebot-plugin-petpet
 
-nonebot_plugin_roll
+- Nonebot-plugin-minesweeper
 
-nonebot_plugin_morning
+- Nonebot-plugin-roll
 
-nonebot_plugin_crazy_thursday
+- Nonebot-plugin-morning
 
-nonebot_plugin_arcaeabot
+- Nonebot-plugin-crazy-thursday
 
-nonebot_plugin_fortune
+- Nonebot-plugin-arcaeabot
 
-nonebot_plugin_meme
+- Nonebot-plugin-fortune
 
-nonebot_plugin_remake
+- Nonebot-plugin-meme
 
-nonebot_plugin_weather_lite
+- Nonebot-plugin-remake
 
-nonebot_plugin_what2eat
+- Nonebot-plugin-weather-lite
 
-nonebot_plugin_wordcloud
+- Nonebot-plugin-what2eat
 
-Zerobot-Plugin 项目
-```
+- Nonebot-plugin-wordcloud
+
+- Zerobot-Plugin 项目
+
+
 
 ## 人设相关
 
@@ -624,7 +625,7 @@ Hana的运营纯属本人的心情 并且Hana是开源并不收赞助 ~~不然�
 
 * 基于Zerobot(Golang)的毛子转盘
 
-> 类似于nb2的插件 不过会上一个抢劫系统 应该会用Sqlite实现
+> 类似于nb2的插件 不过会上一个抢劫系统 应该会用Sqlite实现 ~~摆了~~
 
 * 好感度系统
 
@@ -637,10 +638,6 @@ Hana的运营纯属本人的心情 并且Hana是开源并不收赞助 ~~不然�
 * 查车车
 
 > 类似于 ycm 的查车车 | 不过可能不支持群隔离x
-
-* 自动祝群友生日快乐
-
-> 懒得解释x
 
 目前就先实现这些叭 ~~咱真的非常菜~~
 
